@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "AI Sentinels workshop packs: pick the packs that match your role.",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "plugins": [
     {
       "name": "ai-sentinels-core",
       "source": "./plugins/ai-sentinels-core",
       "description": "Everyday AI for every staff member: plan your day, keep context, search across email, chat and documents, work with PDFs. Includes the AI Sentinels setup wizard, time-saved log and Copilot agents guide.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "productivity",
       "keywords": [
         "ai-sentinels",
@@ -27,7 +27,7 @@
       "name": "ai-sentinels-people-ops",
       "source": "./plugins/ai-sentinels-people-ops",
       "description": "People and operations: HR policy answers, onboarding, interviews and reviews; process docs, runbooks, status reports, risk and vendor reviews; stakeholder updates and planning.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "keywords": [
         "ai-sentinels",
@@ -41,7 +41,7 @@
       "name": "ai-sentinels-comms",
       "source": "./plugins/ai-sentinels-comms",
       "description": "Marketing and communications: content in your brand voice, campaign plans, email sequences, brand review, SEO and performance reports.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "keywords": [
         "ai-sentinels",
@@ -53,7 +53,7 @@
       "name": "ai-sentinels-finance-data",
       "source": "./plugins/ai-sentinels-finance-data",
       "description": "Finance and data: month-end close, reconciliations, variance analysis, audit support; explore spreadsheets and data, build charts and dashboards, check analysis before sharing.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "keywords": [
         "ai-sentinels",
@@ -66,7 +66,7 @@
       "name": "ai-sentinels-business-growth",
       "source": "./plugins/ai-sentinels-business-growth",
       "description": "Business growth for sales teams and small businesses: prospect research, call prep, outreach, pipeline and forecasts, plus ready-made small-business workflows for inbox, invoices, proposals and reporting.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "keywords": [
         "ai-sentinels",

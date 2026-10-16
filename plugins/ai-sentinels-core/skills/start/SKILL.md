@@ -36,8 +36,8 @@ Do NOT use `open` or `xdg-open` — in Cowork, the agent runs in a VM and shell 
 If everything was already initialized:
 ```
 Dashboard open. Your tasks and memory are both loaded.
-- /productivity:update to sync tasks and check memory
-- /productivity:update --comprehensive for a deep scan of all activity
+- /ai-sentinels-core:update to sync tasks and check memory
+- /ai-sentinels-core:update --comprehensive for a deep scan of all activity
 ```
 
 If memory hasn't been bootstrapped yet, continue to step 5.
@@ -147,7 +147,7 @@ Productivity system ready:
 - Memory: X people, X terms, X projects
 - Dashboard: open in browser
 
-Use /productivity:update to keep things current (add --comprehensive for a deep scan).
+Use /ai-sentinels-core:update to keep things current (add --comprehensive for a deep scan).
 ```
 
 ## Notes

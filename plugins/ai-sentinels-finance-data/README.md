@@ -29,7 +29,7 @@ Part of the **AI Sentinels** workshop catalogue by AI Sentinels. Install only th
 
 ## Connectors
 
-Optional tool connections this pack can use: snowflake, databricks, bigquery, slack, google calendar, gmail, hex, amplitude, amplitude-eu, atlassian, definite. Every skill also works from pasted text or uploaded files. Connect only tools your IT team has approved.
+Optional tool connections this pack can use: bigquery, slack, google-calendar, gmail, hex, amplitude, amplitude-eu, atlassian, definite. Snowflake and Databricks can be added with your organisation's own connector address (see CONNECTORS.md). Every skill also works from pasted text or uploaded files. Connect only tools your IT team has approved.
 
 ## Licence
 

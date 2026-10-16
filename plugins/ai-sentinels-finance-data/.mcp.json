@@ -1,13 +1,5 @@
 {
   "mcpServers": {
-    "snowflake": {
-      "type": "http",
-      "url": ""
-    },
-    "databricks": {
-      "type": "http",
-      "url": ""
-    },
     "bigquery": {
       "type": "http",
       "url": "https://bigquery.googleapis.com/mcp"
@@ -20,13 +12,13 @@
         "callbackPort": 3118
       }
     },
-    "google calendar": {
+    "google-calendar": {
       "type": "http",
-      "url": ""
+      "url": "https://calendarmcp.googleapis.com/mcp/v1"
     },
     "gmail": {
       "type": "http",
-      "url": ""
+      "url": "https://gmailmcp.googleapis.com/mcp/v1"
     },
     "hex": {
       "type": "http",

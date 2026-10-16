@@ -30,7 +30,7 @@ Every skill also works with nothing connected: upload an export or paste notes, 
 
 Once connected, the skills use them the same way as any other tool in their category.
 
-Google Calendar, Gmail and Google Drive are listed in `.mcp.json` without a URL. Connect them in Claude's connector settings.
+Google Calendar, Gmail and Google Drive use Google's hosted MCP servers. Each person signs in with their own Google account the first time a skill uses one; nothing is connected until then.
 
 ## Permissions
 

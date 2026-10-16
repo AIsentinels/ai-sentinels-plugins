@@ -48,13 +48,13 @@
       "type": "http",
       "url": "https://mcp.supermetrics.com/mcp"
     },
-    "google calendar": {
+    "google-calendar": {
       "type": "http",
-      "url": ""
+      "url": "https://calendarmcp.googleapis.com/mcp/v1"
     },
     "gmail": {
       "type": "http",
-      "url": ""
+      "url": "https://gmailmcp.googleapis.com/mcp/v1"
     }
   }
 }

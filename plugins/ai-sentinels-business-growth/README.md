@@ -91,7 +91,7 @@ Part of the **AI Sentinels** workshop catalogue by AI Sentinels. Install only th
 
 ## Connectors
 
-Optional tool connections this pack can use: airwallex-agentos, apollo-io, atlassian-rovo, canva, clay, docusign, emergent, expensify, gmail, google-calendar, google-drive, gusto, hubspot, intuit-mailchimp, intuit-quickbooks, monday-com, myob, notion, paypal, ramp, ringex-chat, shopify, slack, square, stripe, tiktok, trello, wix, xero, zapier, zoho-books, zoho-crm, zoho-desk, zoho-projects, zoom, salesforce, close, monday, zoominfo, atlassian, fireflies, apollo, outreach, google calendar, microsoft-365, similarweb, google drive, gong, otter-ai, calendly, lusha, crunchbase. Every skill also works from pasted text or uploaded files. Connect only tools your IT team has approved.
+Optional tool connections this pack can use: airwallex-agentos, apollo-io, atlassian-rovo, canva, clay, docusign, emergent, expensify, gmail, google-calendar, google-drive, gusto, hubspot, intuit-mailchimp, intuit-quickbooks, monday-com, myob, notion, paypal, ramp, ringex-chat, shopify, slack, square, stripe, tiktok, trello, wix, xero, zapier, zoho-books, zoho-crm, zoho-desk, zoho-projects, zoom, salesforce, close, monday, zoominfo, atlassian, fireflies, apollo, outreach, microsoft-365, similarweb, gong, otter-ai, calendly, lusha, crunchbase. Every skill also works from pasted text or uploaded files. Connect only tools your IT team has approved.
 
 ## Licence
 

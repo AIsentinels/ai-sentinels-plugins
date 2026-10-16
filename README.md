@@ -4,7 +4,7 @@ Claude plugins for AI Sentinels workshops (https://aisentinels.me/). Attendees i
 
 | Pack | For | Skills |
 | --- | --- | --- |
-| AI Sentinels Core (`ai-sentinels-core`) | Everyone | 13 skills + 4 PDF commands: day planning, memory, search across tools, daily digest, PDF review and signing, setup wizard, time-saved log, Copilot agents guide |
+| AI Sentinels Core (`ai-sentinels-core`) | Everyone | 13 skills + 4 PDF commands: day planning, memory, search across tools, daily digest, PDF review and signing (optional local viewer, needs Node.js), setup wizard, time-saved log, Copilot agents guide |
 | People & Ops (`ai-sentinels-people-ops`) | HR, operations, admin, project leads | 26 skills + 1 command: policy answers, onboarding, interviews, reviews, process docs, runbooks, status reports, risk and vendor reviews, stakeholder updates |
 | Comms & Marketing (`ai-sentinels-comms`) | Marketing, communications, admissions | 8 skills: content, brand review, campaigns, email sequences, SEO, performance reports |
 | Finance & Data (`ai-sentinels-finance-data`) | Finance, planning, reporting | 18 skills: close, reconciliation, variance analysis, audit support, data exploration, charts, dashboards |

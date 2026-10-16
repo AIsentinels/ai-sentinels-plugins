@@ -63,11 +63,11 @@ opens. The filled PDF is then displayed.
 > *After answers:* `interact` → `fill_form` + `get_screenshot`
 >
 > *You:* "Here's the filled form [screenshot]. The signature line is
-> still blank — want to add your signature with `/pdf-viewer:sign`?"
+> still blank — want to add your signature with `/ai-sentinels-core:sign`?"
 
 ## Notes
 
 - Signature fields are usually separate — fill text first, then hand
-  off to `/pdf-viewer:sign` for the image
+  off to `/ai-sentinels-core:sign` for the image
 - Checkbox/radio values are `true`/`false` or the option string
 - The user can always drag & edit fields directly in the viewer
