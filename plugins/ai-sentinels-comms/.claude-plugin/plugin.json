@@ -1,0 +1,16 @@
+{
+  "name": "ai-sentinels-comms",
+  "version": "0.1.0",
+  "description": "Marketing and communications: content in your brand voice, campaign plans, email sequences, brand review, SEO and performance reports.",
+  "author": {
+    "name": "AI Sentinels \u2014 AI Sentinels",
+    "url": "https://aisentinels.me/"
+  },
+  "homepage": "https://aisentinels.me/",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ai-sentinels",
+    "workshop",
+    "marketing"
+  ]
+}

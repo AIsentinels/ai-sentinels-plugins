@@ -1,0 +1,17 @@
+{
+  "name": "ai-sentinels-business-growth",
+  "version": "0.1.0",
+  "description": "Business growth for sales teams and small businesses: prospect research, call prep, outreach, pipeline and forecasts, plus ready-made small-business workflows for inbox, invoices, proposals and reporting.",
+  "author": {
+    "name": "AI Sentinels \u2014 AI Sentinels",
+    "url": "https://aisentinels.me/"
+  },
+  "homepage": "https://aisentinels.me/",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ai-sentinels",
+    "workshop",
+    "small-business",
+    "sales"
+  ]
+}

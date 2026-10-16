@@ -1,0 +1,7 @@
+ai-sentinels-people-ops
+Copyright 2026 AI Sentinels Ltd.
+
+Includes and modifies material from anthropics/knowledge-work-plugins
+(https://github.com/anthropics/knowledge-work-plugins), licensed under the
+Apache License 2.0. Source plugins: human-resources, operations, product-management.
+Modifications: packaged into role packs, connector lists merged, skills renamed where names clashed, AI Sentinels skills added.

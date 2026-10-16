@@ -1,0 +1,17 @@
+{
+  "name": "ai-sentinels-finance-data",
+  "version": "0.1.0",
+  "description": "Finance and data: month-end close, reconciliations, variance analysis, audit support; explore spreadsheets and data, build charts and dashboards, check analysis before sharing.",
+  "author": {
+    "name": "AI Sentinels \u2014 AI Sentinels",
+    "url": "https://aisentinels.me/"
+  },
+  "homepage": "https://aisentinels.me/",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ai-sentinels",
+    "workshop",
+    "finance",
+    "data"
+  ]
+}

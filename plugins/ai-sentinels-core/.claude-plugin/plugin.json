@@ -1,0 +1,18 @@
+{
+  "name": "ai-sentinels-core",
+  "version": "0.1.0",
+  "description": "Everyday AI for every staff member: plan your day, keep context, search across email, chat and documents, work with PDFs. Includes the AI Sentinels setup wizard, time-saved log and Copilot agents guide.",
+  "author": {
+    "name": "AI Sentinels \u2014 AI Sentinels",
+    "url": "https://aisentinels.me/"
+  },
+  "homepage": "https://aisentinels.me/",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ai-sentinels",
+    "workshop",
+    "productivity",
+    "enterprise-search",
+    "pdf-viewer"
+  ]
+}
