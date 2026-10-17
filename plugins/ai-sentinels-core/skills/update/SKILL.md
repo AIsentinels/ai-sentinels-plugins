@@ -16,15 +16,15 @@ Keep your task list and memory current. Two modes:
 ## Usage
 
 ```bash
-/productivity:update
-/productivity:update --comprehensive
+/ai-sentinels-core:update
+/ai-sentinels-core:update --comprehensive
 ```
 
 ## Default Mode
 
 ### 1. Load Current State
 
-Read `TASKS.md` and `memory/` directory. If they don't exist, suggest `/productivity:start` first.
+Read `TASKS.md` and `memory/` directory. If they don't exist, suggest `/ai-sentinels-core:start` first.
 
 ### 2. Sync Tasks from External Sources
 

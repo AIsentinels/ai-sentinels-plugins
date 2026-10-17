@@ -19,7 +19,7 @@ Part of the **AI Sentinels** workshop catalogue by AI Sentinels. Install only th
 
 ## Connectors
 
-Optional tool connections this pack can use: slack, canva, figma, hubspot, amplitude, amplitude-eu, notion, ahrefs, similarweb, klaviyo, supermetrics, google calendar, gmail. Every skill also works from pasted text or uploaded files. Connect only tools your IT team has approved.
+Optional tool connections this pack can use: slack, canva, figma, hubspot, amplitude, amplitude-eu, notion, ahrefs, similarweb, klaviyo, supermetrics, google-calendar, gmail. Every skill also works from pasted text or uploaded files. Connect only tools your IT team has approved.
 
 ## Licence
 

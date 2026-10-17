@@ -40,7 +40,7 @@ execute directly. Still confirm with a screenshot.
 - **Comments:** note (sticky), freetext (visible on page)
 - **Shapes:** rectangle, circle, line
 - **Stamps:** any label — APPROVED, DRAFT, CONFIDENTIAL, REVIEWED
-- **Images:** signatures, initials, logos (see `/pdf-viewer:sign`)
+- **Images:** signatures, initials, logos (see `/ai-sentinels-core:sign`)
 
 ## Tips
 

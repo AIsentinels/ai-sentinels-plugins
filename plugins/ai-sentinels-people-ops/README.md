@@ -38,7 +38,7 @@ Part of the **AI Sentinels** workshop catalogue by AI Sentinels. Install only th
 
 ## Connectors
 
-Optional tool connections this pack can use: slack, google calendar, gmail, notion, atlassian, asana, linear, monday, clickup, figma, amplitude, amplitude-eu, pendo, intercom, fireflies, similarweb. Every skill also works from pasted text or uploaded files. Connect only tools your IT team has approved.
+Optional tool connections this pack can use: slack, google-calendar, gmail, notion, atlassian, asana, linear, monday, clickup, figma, amplitude, amplitude-eu, pendo, intercom, fireflies, similarweb. Every skill also works from pasted text or uploaded files. Connect only tools your IT team has approved.
 
 ## Licence
 

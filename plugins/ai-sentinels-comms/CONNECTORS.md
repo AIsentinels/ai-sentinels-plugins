@@ -12,6 +12,8 @@ Plugins are **tool-agnostic** — they describe workflows in terms of categories
 | Category | Placeholder | Included servers | Other options |
 |----------|-------------|-----------------|---------------|
 | Chat | `~~chat` | Slack | Microsoft Teams |
+| Email | `~~email` | Gmail | Microsoft 365 |
+| Calendar | `~~calendar` | Google Calendar | Microsoft 365 |
 | Design | `~~design` | Canva, Figma | Adobe Creative Cloud |
 | Marketing automation | `~~marketing automation` | HubSpot | Marketo, Pardot, Mailchimp |
 | Product analytics | `~~product analytics` | Amplitude | Mixpanel, Google Analytics |

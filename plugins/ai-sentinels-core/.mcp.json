@@ -32,25 +32,17 @@
       "type": "http",
       "url": "https://mcp.clickup.com/mcp"
     },
-    "google calendar": {
+    "google-calendar": {
       "type": "http",
-      "url": ""
+      "url": "https://calendarmcp.googleapis.com/mcp/v1"
     },
     "gmail": {
       "type": "http",
-      "url": ""
+      "url": "https://gmailmcp.googleapis.com/mcp/v1"
     },
     "guru": {
       "type": "http",
       "url": "https://mcp.api.getguru.com/mcp"
-    },
-    "pdf": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "@modelcontextprotocol/server-pdf",
-        "--stdio"
-      ]
     }
   }
 }

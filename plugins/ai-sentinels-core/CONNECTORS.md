@@ -12,8 +12,8 @@ Plugins are **tool-agnostic** — they describe workflows in terms of categories
 | Category | Placeholder | Included servers | Other options |
 |----------|-------------|-----------------|---------------|
 | Chat | `~~chat` | Slack | Microsoft Teams, Discord |
-| Email | `~~email` | Microsoft 365 | — |
-| Calendar | `~~calendar` | Microsoft 365 | — |
+| Email | `~~email` | Gmail | Microsoft 365 |
+| Calendar | `~~calendar` | Google Calendar | Microsoft 365 |
 | Knowledge base | `~~knowledge base` | Notion | Confluence, Guru, Coda |
 | Project tracker | `~~project tracker` | Asana, Linear, Atlassian (Jira/Confluence), monday.com, ClickUp | Shortcut, Basecamp, Wrike |
 | Office suite | `~~office suite` | Microsoft 365 | — |
@@ -48,18 +48,25 @@ This plugin uses `~~category` references extensively as source labels in search 
 ---
 
 <!-- from pdf-viewer -->
-# Connectors
+# Optional: interactive PDF viewer
 
-## Local MCP Server
+The `/open`, `/annotate`, `/fill-form` and `/sign` commands and the **view-pdf** skill need a local PDF server. **It is not switched on by default**, because it runs on your own computer through Node.js, and the AI Sentinels workshop does not ask anyone to install Node.js.
 
-This plugin uses a **local MCP server** instead of a remote connector.
-The PDF server runs on your machine via `npx`.
+Without it, Claude can still read, summarise and extract text and tables from PDFs you upload or keep in your working folder. Only the live viewer (highlighting, stamping, filling form fields and placing signatures on the page) is unavailable.
 
 | Category | Server | How it runs |
 |----------|--------|-------------|
-| PDF viewer & annotator | `@modelcontextprotocol/server-pdf` | Local stdio via `npx` (auto-installed) |
+| PDF viewer & annotator | `@modelcontextprotocol/server-pdf` | Local stdio via `npx` (optional, not pre-configured) |
 
-### Requirements
-- Node.js >= 18
-- Internet access for remote PDFs (arXiv, bioRxiv, etc.)
-- No API keys or authentication needed
+### Turning it on (optional)
+
+Requirements: Node.js 18 or later, and your IT team's approval to run local tools. Then add this server in Claude's connector settings (or to your own MCP configuration):
+
+```json
+"pdf": {
+  "command": "npx",
+  "args": ["-y", "@modelcontextprotocol/server-pdf", "--stdio"]
+}
+```
+
+No API keys or sign-in are needed. Internet access is only used for remote PDFs (arXiv, bioRxiv and similar).

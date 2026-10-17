@@ -9,6 +9,13 @@ You have access to a local PDF server that renders documents in a live
 viewer and lets you annotate, fill forms, and place signatures with
 real-time visual feedback.
 
+**The PDF server is optional and not switched on by default** (it needs
+Node.js on the user's computer). If the `display_pdf` / `list_pdfs` tools
+are not available, say so in one line, point to the "Optional: interactive
+PDF viewer" section of CONNECTORS.md, and carry on with the native Read
+tool for anything that does not need the live viewer. Never ask the user
+to install Node.js during a workshop.
+
 ## When to use this skill
 
 **Use the PDF viewer when the user wants interactivity:**

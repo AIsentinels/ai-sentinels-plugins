@@ -285,7 +285,7 @@ When user asks "who is X" or "what does X mean":
 
 ## Bootstrapping
 
-Use `/productivity:start` to initialize by scanning your chat, calendar, email, and documents. Extracts people, projects, and starts building the glossary.
+Use `/ai-sentinels-core:start` to initialize by scanning your chat, calendar, email, and documents. Extracts people, projects, and starts building the glossary.
 
 ## Conventions
 
